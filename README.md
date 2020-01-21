@@ -6,6 +6,9 @@ My final project for the [Skillcrush](https://skillcrush.com) Python course.
 - Add, remove, and retrieve stored contacts list, birthdays list, and to-do items list
 - Custom error messages
 
+### See it in action!
+Visit the [repl](https://repl.it/@adriculous/Personal-Assistant-App) to test and play around.
+
 ### Future Plans
 When I get better at Python programming, I'd like to expand this personal assistant app as practice. Features will include groceries list and a list of favorite hobbies, movies, music, etc. I also plan on learning more about Python's GUI module and the Remi Library.
 
