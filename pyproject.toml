@@ -1,0 +1,8 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "base_app"
+version = "0.0.0"
+[tool.poetry.dependencies]
+python = "^3.7"
+remi = "^2020.1"

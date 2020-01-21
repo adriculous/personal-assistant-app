@@ -1,0 +1,16 @@
+setup.py
+base_app/__init__.py
+base_app.egg-info/PKG-INFO
+base_app.egg-info/SOURCES.txt
+base_app.egg-info/dependency_links.txt
+base_app.egg-info/requires.txt
+base_app.egg-info/top_level.txt
+base_app/res/file.png
+base_app/res/folder.png
+base_app/res/font.woff2
+base_app/res/logo.png
+base_app/res/logo.svg
+base_app/res/minus.png
+base_app/res/plus.png
+base_app/res/screenshot.png
+base_app/res/style.css
