@@ -1,16 +1,15 @@
 # Personal Assistant App
-My final project for the [Skillcrush](https://skillcrush.com) Python course.
+An personal organizer that handles and manages different types of lists, such as a to-do list, a contact list, and a birthday dates list. Users can add and remove items, as well as being able to view the entire list as well.
 
-### Features
-- Easy to use GUI via Remi Library
-- Add, remove, and retrieve stored contacts list, birthdays list, and to-do items list
-- Custom error messages
+### Features and Skills
+- [Remi Library](https://www.remigui.com/) for [GUI](https://docs.python.org/3/faq/gui.html) - converts Python code into HTML
+- Lists are stored in one JSON file
+- Custom classes and methods that includes custom error messages
 
-### See it in action!
-Visit the [repl](https://repl.it/@adriculous/Personal-Assistant-App) to test and play around.
+**See it in action!** [repl](https://repl.it/@adriculous/Personal-Assistant-App)
 
 ### Future Plans
-When I get better at Python programming, I'd like to expand this personal assistant app as practice. Features will include groceries list and a list of favorite hobbies, movies, music, etc. I also plan on learning more about Python's GUI module and the Remi Library.
+When I get better at Python programming, I'd like to expand this personal assistant app as practice. Planned features include a groceries list and a list of favorite hobbies, movies, music, etc. I also plan on learning more about Python's GUI module and the Remi Library with a better, attractive-looking interface.
 
 ### Some Links if You're Bored
 - [The ADRICULOUS Life](https://adriculous.life) - personal (non-niche) blog
